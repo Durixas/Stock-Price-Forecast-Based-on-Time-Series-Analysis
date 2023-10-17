@@ -13,3 +13,7 @@ This project is focused on predicting stock prices for the upcoming week using t
 - **Model Training:** Utilized models including ARIMA and XGBoost to predict stock prices for the upcoming week.
 
 - **Performance Evaluation:** Evaluated the model's performance on test data, achieving a minimal Root Mean Squared Error (RMSE) of 2.7.
+
+### Data
+
+The dataset used in this project can be found on Kaggle: [Stock Data with Industry Information](https://www.kaggle.com/datasets/luisgilch/stock-data-with-industry-information).
