@@ -4,7 +4,7 @@
 
 This project is focused on predicting stock prices for the upcoming week using time series analysis. It involves the development of a Python-based model, data processing, and the evaluation of model performance.
 
-### Key Highlights
+## Key Highlights
 
 - **Model Development:** Created predictive models in Python to forecast stock prices, with a focus on a one-week time horizon.
 
@@ -14,6 +14,6 @@ This project is focused on predicting stock prices for the upcoming week using t
 
 - **Performance Evaluation:** Evaluated the model's performance on test data, achieving a minimal Root Mean Squared Error (RMSE) of 2.7.
 
-### Data
+## Data
 
 The dataset used in this project can be found on Kaggle: [Stock Data with Industry Information](https://www.kaggle.com/datasets/luisgilch/stock-data-with-industry-information).
